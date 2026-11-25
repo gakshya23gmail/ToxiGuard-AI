@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+python-telegram-bot
+google-api-python-client
+google-auth-oauthlib
+plotly

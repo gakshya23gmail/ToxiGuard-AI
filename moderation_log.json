@@ -1,0 +1,3542 @@
+[
+  {
+    "timestamp": "2026-11-25 17:52:59",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are such an idiot, this is a stupid and pathetic waste of time",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic",
+      "obscene",
+      "insult"
+    ],
+    "scores": {
+      "toxic": 1.0,
+      "severe_toxic": 0.043,
+      "obscene": 0.9589,
+      "threat": 0.0043,
+      "insult": 1.0,
+      "identity_hate": 0.0791
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:59",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bye",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1679,
+      "severe_toxic": 0.0014,
+      "obscene": 0.0398,
+      "threat": 0.0019,
+      "insult": 0.0307,
+      "identity_hate": 0.0026
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:59",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:59",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:59",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:58",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:57",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:55",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:55",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:54",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are such an idiot, this is a stupid and pathetic waste of time",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic",
+      "obscene",
+      "insult"
+    ],
+    "scores": {
+      "toxic": 1.0,
+      "severe_toxic": 0.043,
+      "obscene": 0.9589,
+      "threat": 0.0043,
+      "insult": 1.0,
+      "identity_hate": 0.0791
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:22",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bye",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1679,
+      "severe_toxic": 0.0014,
+      "obscene": 0.0398,
+      "threat": 0.0019,
+      "insult": 0.0307,
+      "identity_hate": 0.0026
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:22",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:22",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:22",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:22",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:22",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:52:22",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are such an idiot, this is a stupid and pathetic waste of time",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic",
+      "obscene",
+      "insult"
+    ],
+    "scores": {
+      "toxic": 1.0,
+      "severe_toxic": 0.043,
+      "obscene": 0.9589,
+      "threat": 0.0043,
+      "insult": 1.0,
+      "identity_hate": 0.0791
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bye",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1679,
+      "severe_toxic": 0.0014,
+      "obscene": 0.0398,
+      "threat": 0.0019,
+      "insult": 0.0307,
+      "identity_hate": 0.0026
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:46",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:46",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:46",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are such an idiot, this is a stupid and pathetic waste of time",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic",
+      "obscene",
+      "insult"
+    ],
+    "scores": {
+      "toxic": 1.0,
+      "severe_toxic": 0.043,
+      "obscene": 0.9589,
+      "threat": 0.0043,
+      "insult": 1.0,
+      "identity_hate": 0.0791
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:27",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bye",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1679,
+      "severe_toxic": 0.0014,
+      "obscene": 0.0398,
+      "threat": 0.0019,
+      "insult": 0.0307,
+      "identity_hate": 0.0026
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are such an idiot, this is a stupid and pathetic waste of time",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic",
+      "obscene",
+      "insult"
+    ],
+    "scores": {
+      "toxic": 1.0,
+      "severe_toxic": 0.043,
+      "obscene": 0.9589,
+      "threat": 0.0043,
+      "insult": 1.0,
+      "identity_hate": 0.0791
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:06",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bye",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1679,
+      "severe_toxic": 0.0014,
+      "obscene": 0.0398,
+      "threat": 0.0019,
+      "insult": 0.0307,
+      "identity_hate": 0.0026
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:06",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:06",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:06",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:06",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:06",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:06",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:06",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:49:06",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are such an idiot, this is a stupid and pathetic waste of time",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic",
+      "obscene",
+      "insult"
+    ],
+    "scores": {
+      "toxic": 1.0,
+      "severe_toxic": 0.043,
+      "obscene": 0.9589,
+      "threat": 0.0043,
+      "insult": 1.0,
+      "identity_hate": 0.0791
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:46",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bye",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1679,
+      "severe_toxic": 0.0014,
+      "obscene": 0.0398,
+      "threat": 0.0019,
+      "insult": 0.0307,
+      "identity_hate": 0.0026
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:46",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:46",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:46",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:46",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:46",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:46",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:46",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:46",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are such an idiot, this is a stupid and pathetic waste of time",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic",
+      "obscene",
+      "insult"
+    ],
+    "scores": {
+      "toxic": 1.0,
+      "severe_toxic": 0.043,
+      "obscene": 0.9589,
+      "threat": 0.0043,
+      "insult": 1.0,
+      "identity_hate": 0.0791
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bye",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1679,
+      "severe_toxic": 0.0014,
+      "obscene": 0.0398,
+      "threat": 0.0019,
+      "insult": 0.0307,
+      "identity_hate": 0.0026
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are such an idiot, this is a stupid and pathetic waste of time",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic",
+      "obscene",
+      "insult"
+    ],
+    "scores": {
+      "toxic": 1.0,
+      "severe_toxic": 0.043,
+      "obscene": 0.9589,
+      "threat": 0.0043,
+      "insult": 1.0,
+      "identity_hate": 0.0791
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:07",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bye",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1679,
+      "severe_toxic": 0.0014,
+      "obscene": 0.0398,
+      "threat": 0.0019,
+      "insult": 0.0307,
+      "identity_hate": 0.0026
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:07",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:07",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:07",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:07",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:07",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:07",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:06",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:48:06",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are such an idiot, this is a stupid and pathetic waste of time",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic",
+      "obscene",
+      "insult"
+    ],
+    "scores": {
+      "toxic": 1.0,
+      "severe_toxic": 0.043,
+      "obscene": 0.9589,
+      "threat": 0.0043,
+      "insult": 1.0,
+      "identity_hate": 0.0791
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bye",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1679,
+      "severe_toxic": 0.0014,
+      "obscene": 0.0398,
+      "threat": 0.0019,
+      "insult": 0.0307,
+      "identity_hate": 0.0026
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are such an idiot, this is a stupid and pathetic waste of time",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic",
+      "obscene",
+      "insult"
+    ],
+    "scores": {
+      "toxic": 1.0,
+      "severe_toxic": 0.043,
+      "obscene": 0.9589,
+      "threat": 0.0043,
+      "insult": 1.0,
+      "identity_hate": 0.0791
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:27",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bye",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1679,
+      "severe_toxic": 0.0014,
+      "obscene": 0.0398,
+      "threat": 0.0019,
+      "insult": 0.0307,
+      "identity_hate": 0.0026
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:27",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:27",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:27",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:27",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:27",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:27",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:27",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:47:27",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are such an idiot, this is a stupid and pathetic waste of time",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic",
+      "obscene",
+      "insult"
+    ],
+    "scores": {
+      "toxic": 1.0,
+      "severe_toxic": 0.043,
+      "obscene": 0.9589,
+      "threat": 0.0043,
+      "insult": 1.0,
+      "identity_hate": 0.0791
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:46:23",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bye",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1679,
+      "severe_toxic": 0.0014,
+      "obscene": 0.0398,
+      "threat": 0.0019,
+      "insult": 0.0307,
+      "identity_hate": 0.0026
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:46:23",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:46:23",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:46:23",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:46:23",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:46:23",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:46:23",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:46:23",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:43:40",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bye",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1679,
+      "severe_toxic": 0.0014,
+      "obscene": 0.0398,
+      "threat": 0.0019,
+      "insult": 0.0307,
+      "identity_hate": 0.0026
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:43:40",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:43:40",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:43:40",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:43:40",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:43:39",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:43:39",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:43:39",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:38:37",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bye",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1679,
+      "severe_toxic": 0.0014,
+      "obscene": 0.0398,
+      "threat": 0.0019,
+      "insult": 0.0307,
+      "identity_hate": 0.0026
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:38:37",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:38:37",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:38:37",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:38:36",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:38:35",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:38:34",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:38:34",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:44",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:44",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:44",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:42",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:39",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:39",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:39",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:05",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:05",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:05",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:04",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:03",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:02",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:30:02",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:29:28",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:29:28",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:29:28",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:29:27",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:29:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:29:25",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:29:25",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:52",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:52",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:52",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:51",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:50",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:49",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:49",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:15",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:15",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:15",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:15",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:14",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:13",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:28:13",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:40",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:40",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:40",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:39",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:38",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:37",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:37",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:03",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:03",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:03",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:02",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:01",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:00",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:27:00",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:26:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:26:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:26:26",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:26:25",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:26:25",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:26:24",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:26:24",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:49",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:49",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:49",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:48",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:48",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:47",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:14",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:14",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:14",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:13",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:12",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:11",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:25:11",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:24:37",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:24:37",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:24:37",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:24:36",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:24:35",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:24:34",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:24:34",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:24:00",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:24:00",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:24:00",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:23:59",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "This video is really stupid and boring, complete waste of time.",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9626,
+      "severe_toxic": 0.0053,
+      "obscene": 0.1597,
+      "threat": 0.0011,
+      "insult": 0.5762,
+      "identity_hate": 0.0042
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:23:58",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "You are an absolute clown, delete this garbage channel right now",
+    "is_toxic": true,
+    "flagged_categories": [
+      "toxic"
+    ],
+    "scores": {
+      "toxic": 0.9044,
+      "severe_toxic": 0.0071,
+      "obscene": 0.0835,
+      "threat": 0.002,
+      "insult": 0.2446,
+      "identity_hate": 0.0078
+    },
+    "action": "Hidden from Users"
+  },
+  {
+    "timestamp": "2026-11-25 17:23:57",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "I lost brain cells watching this, total waste of my time",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.4943,
+      "severe_toxic": 0.0124,
+      "obscene": 0.0198,
+      "threat": 0.0015,
+      "insult": 0.0704,
+      "identity_hate": 0.0033
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:23:57",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Such a nice and useful video",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.028,
+      "severe_toxic": 0.0035,
+      "obscene": 0.0096,
+      "threat": 0.0014,
+      "insult": 0.0161,
+      "identity_hate": 0.0023
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:23:40",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Hi",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0021,
+      "severe_toxic": 0.0006,
+      "obscene": 0.0029,
+      "threat": 0.0009,
+      "insult": 0.0005,
+      "identity_hate": 0.0013
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:23:40",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Dipa moham",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.0386,
+      "severe_toxic": 0.0034,
+      "obscene": 0.0118,
+      "threat": 0.0017,
+      "insult": 0.0102,
+      "identity_hate": 0.0022
+    },
+    "action": "Published"
+  },
+  {
+    "timestamp": "2026-11-25 17:23:40",
+    "platform": "Manual Test",
+    "author": "User",
+    "comment": "Bald head",
+    "is_toxic": false,
+    "flagged_categories": [],
+    "scores": {
+      "toxic": 0.1297,
+      "severe_toxic": 0.0125,
+      "obscene": 0.0221,
+      "threat": 0.006,
+      "insult": 0.0954,
+      "identity_hate": 0.0014
+    },
+    "action": "Published"
+  }
+]

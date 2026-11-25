@@ -1,0 +1,8 @@
+﻿client_secret*.json
+token.pickle
+token.json
+*.db
+*.mp4
+data/
+__pycache__/
+.streamlit/secrets.toml
