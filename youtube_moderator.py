@@ -1,4 +1,14 @@
 import os
+import streamlit as st
+
+if "token" in st.secrets and not os.path.exists("token.json"):
+    with open("token.json", "w") as f:
+        f.write(st.secrets["token"])
+
+if "client_secret" in st.secrets and not os.path.exists("client_secret.json"):
+    with open("client_secret.json", "w") as f:
+        f.write(st.secrets["client_secret"])
+import os
 import time
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
